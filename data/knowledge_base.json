@@ -1,0 +1,167 @@
+{
+  "institute_name": "I-tech",
+  "tagline": "Learn Today, Lead Tomorrow",
+
+  "about_institute": {
+    "description": "I-tech is a professional training institute focused on practical skills, industry-ready courses, and career growth.",
+    "why_choose_us": [
+      "Industry-oriented curriculum",
+      "Hands-on practical training",
+      "Experienced trainers",
+      "Placement assistance",
+      "Live projects"
+    ]
+  },
+
+  "courses": [
+    {
+      "name": "Full Stack Web Development",
+      "duration": "12-18 months",
+      "mode": "Offline / Online",
+      "fee": "₹70,000",
+      "eligibility": "12th pass / Any graduate",
+      "description": "Complete web development using modern technologies.",
+      "syllabus": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs",
+        "Deployment"
+      ],
+      "projects": [
+        "Portfolio Website",
+        "E-commerce Website",
+        "Admin Dashboard"
+      ],
+      "career_roles": [
+        "Frontend Developer",
+        "Backend Developer",
+        "Full Stack Developer"
+      ],
+      "average_salary": "3–8 LPA",
+      "placement_support": true,
+      "certification": "Industry-recognized certificate provided",
+      "batch_timings": [
+        "Morning (8 AM – 10 AM)",
+        "Evening (6 PM – 8 PM)"
+      ]
+    },
+
+    {
+      "name": "Data Science",
+      "duration": "8 months",
+      "mode": "Offline / Online",
+      "fee": "₹80,000",
+      "eligibility": "Graduate / Final year student",
+      "description": "Data analysis, machine learning, and AI with real-world projects.",
+      "syllabus": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "Data Visualization",
+        "Statistics",
+        "Machine Learning",
+        "Deep Learning",
+        "Power BI",
+        "SQL"
+      ],
+      "projects": [
+        "Sales Data Analysis",
+        "Movie Recommendation System",
+        "Prediction Models"
+      ],
+      "career_roles": [
+        "Data Analyst",
+        "Data Scientist",
+        "Business Analyst"
+      ],
+      "average_salary": "4–10 LPA",
+      "placement_support": true,
+      "certification": "Professional Data Science certificate",
+      "batch_timings": [
+        "Morning (9 AM – 11 AM)",
+        "Weekend Batch"
+      ]
+    }
+  ],
+
+  "placements": {
+    "placement_rate": "100%",
+    "average_package": "4–8 LPA",
+    "highest_package": "12 LPA",
+    "services": [
+      "Resume building",
+      "Mock interviews",
+      "HR interview preparation",
+      "Aptitude training",
+      "Internship assistance"
+    ],
+    "companies": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Capgemini",
+      "Startups"
+    ]
+  },
+
+  "fees_and_payments": {
+    "payment_modes": [
+      "Cash",
+      "UPI",
+      "Bank Transfer"
+    ],
+    "installments": [
+      "Full payment",
+      "3 EMI",
+      "6 EMI"
+    ],
+    "scholarships": "Available for meritorious and needy students",
+    "discounts": "Early bird discount available"
+  },
+
+  "batch_details": {
+    "batch_size": "10–20 students",
+    "new_batch_frequency": "Every month",
+    "demo_class": "Free demo class available"
+  },
+
+  "faculty": {
+    "experience": "5+ years industry experience",
+    "teaching_style": "Practical + theory",
+    "mentorship": "One-to-one doubt clearing"
+  },
+
+  "support": {
+    "doubt_support": "Lifetime doubt support",
+    "lab_access": "Lab access available",
+    "study_material": "Notes and recordings provided"
+  },
+
+  "contact": {
+    "phone": "+91-9876543210",
+    "email": "admissions@itech.com",
+    "address": "Tech City, India",
+    "working_hours": "Mon–Sat (9 AM – 7 PM)"
+  },
+
+  "faq": [
+    {
+      "question": "Do you provide placement?",
+      "answer": "Yes, we provide 100% placement assistance."
+    },
+    {
+      "question": "Is demo class free?",
+      "answer": "Yes, demo class is completely free."
+    },
+    {
+      "question": "Do you provide certificate?",
+      "answer": "Yes, certificate is provided after course completion."
+    }
+  ]
+}
